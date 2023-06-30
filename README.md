@@ -37,14 +37,14 @@ Ganhei meu primeiro computador em 1996 e, devido ao ócio criativo inerente a qu
 ## <p style="color: #BF0D6D;"><strong> Tecnologias utilizadas no dia a dia 💻</strong></p> 
 <div style="display: inline_block"><br/>
   
-<img align="center" alt="Prezi" src="https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white"/>
-<img align="center" alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
-<br>
-<br>
 <img align="center" alt="Microsoft Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
 <img align="center" alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 <img align="center" alt="Power Point" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
 <img align="center" alt="Access" src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white"/>
+<br>
+<br>
+<img align="center" alt="Prezi" src="https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white"/>
+<img align="center" alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
 <br>
 <br>
 </div>
