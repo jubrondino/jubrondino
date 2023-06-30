@@ -4,7 +4,7 @@
 ### Olá! 👋 Sejam bem-vindos!
 
 <div align="justify">
-Meu nome é Juliana, mas todos me chamam de Ju. Tenho 34 anos, estou em transição de carreira cursando o ciclo 2/6 de ADS na Fatec - Rubens Lara e atualmente resido em Santos-SP.<br>
+Meu nome é Juliana, mas todos me chamam de Ju. Tenho 34 anos, estou em transição de carreira cursando o ciclo 2/6 de ADS na Fatec - Rubens Lara.<br>
 <br>
 
 Sou médica veterinária formada pela UFLA e possuo 10 anos de experiência na área. Sempre tive muita facilidade com o uso de diversas tecnologias e hoje utilizo no dia a dia da medicina veterinária para criar planilhas de infusão continua e controles de estoque, além de vídeos de como utilizar bombas de infusão, aparelhos de anestesia inalatória e tutoriais dos sistemas das empresas para as quais trabalhei. <br>
