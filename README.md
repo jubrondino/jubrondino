@@ -71,6 +71,5 @@ Estou começando. Lembre-se que você também já esteve aqui.
     <img src="https://github-readme-stats.vercel.app/api?username=jubrondino&show_icons=true&theme=dracula" alt="Ju Brondino GitHub stats">
 </p>
 
-![snake gif](https://github.com/jubrondino/jubrondino/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://github.com/jubrondino/jubrondino/blob/output/github-contribution-grid-snake.svg)
 
