@@ -72,6 +72,6 @@ Estou começando. Lembre-se que você também já esteve aqui.
 </p>
 
 
-
+![snake gif](https://github.com/jubrondino/jubrondino/blob/output/gihub-contribution-grid-snake.svg)
 
 
