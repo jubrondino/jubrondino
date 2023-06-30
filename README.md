@@ -11,7 +11,6 @@ Sou médica veterinária formada pela UFLA e possuo 10 anos de experiência na �
 <br>
 Ganhei meu primeiro computador em 1996 e, devido ao ócio criativo inerente a qualquer criança, aprendi a usá-lo sozinha e assim fazia por muitas horas, mesmo que nessa época só dispuséssemos de paint, jogo paciência e o pinball (no código do Word!) e posteriormente os blogs em HTML. Hoje busco seguir carreira na área de tecnologia. 
 
-🚀 A única constante da vida é a mudança!
 </div>
 
 
