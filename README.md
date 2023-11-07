@@ -7,10 +7,11 @@
 Meu nome é Juliana, mas todos me chamam de Ju. Tenho 34 anos, estou em transição de carreira cursando o ciclo 2/6 de ADS na Fatec - Rubens Lara.<br>
 <br>
 
-Sou médica veterinária formada pela UFLA e possuo 10 anos de experiência na área. Sempre tive muita facilidade com o uso de diversas tecnologias e hoje utilizo no dia a dia da medicina veterinária para criar planilhas de infusão continua e controles de estoque, além de vídeos de como utilizar bombas de infusão, aparelhos de anestesia inalatória e tutoriais dos sistemas das empresas para as quais trabalhei. <br>
-<br>
-Ganhei meu primeiro computador em 1996 e, devido ao ócio criativo inerente a qualquer criança, aprendi a usá-lo sozinha e assim fazia por muitas horas, mesmo que nessa época só dispuséssemos de paint, jogo paciência e o pinball (no código do Word!) e posteriormente os blogs em HTML. Hoje busco seguir carreira na área de tecnologia. 
-
+Sou uma profissional em transição de carreira, buscando novos desafios na área de tecnologia. 
+Desde sempre, tenho paixão pela tecnologia e a utilizo em diversas tarefas para otimizar processos na minha vida pessoal e profissional.
+Em experiências anteriores, trabalhei com treinamento e capacitação de novos colaboradores, resolução de problemas com clientes, vendas, trabalho social e até mesmo como professora em um curso de auxiliar veterinário e isso me ajudou a desenvolver habilidades como comunicação, trabalho em equipe e liderança, que considero fundamentais para qualquer profissional, independente da área. 
+Gosto de ajudar e ensinar as pessoas, e acredito que o conhecimento deve ser compartilhado para que todos possam crescer juntos. Sou uma forte defensora da inclusão e da diversidade, e acredito que a tecnologia pode ser uma ferramenta poderosa para promover esses valores.
+Não tenho medo de desafios e busco constantemente oportunidades que me permitam crescer e aprender novas habilidades. Acredito que a mudança é fundamental para o sucesso.
 </div>
 
 
